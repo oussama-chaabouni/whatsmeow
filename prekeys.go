@@ -12,10 +12,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/ecc"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/keys/identity"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/keys/prekey"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/util/optional"
+	"go.mau.fi/libsignal/ecc"
+	"go.mau.fi/libsignal/keys/identity"
+	"go.mau.fi/libsignal/keys/prekey"
+	"go.mau.fi/libsignal/util/optional"
 
 	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"

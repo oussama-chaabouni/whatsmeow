@@ -12,7 +12,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/keys/prekey"
+	"go.mau.fi/libsignal/keys/prekey"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/appstate"
 	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"

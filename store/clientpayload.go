@@ -15,7 +15,7 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/ecc"
+	"go.mau.fi/libsignal/ecc"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCompanionReg"
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waWa6"

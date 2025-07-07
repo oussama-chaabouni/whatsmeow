@@ -19,12 +19,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/groups"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/protocol"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/session"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/signalerror"
-	"github.com/oussama-chaabouni/whatsmeow/util/random"
 	"github.com/rs/zerolog"
+	"go.mau.fi/libsignal/groups"
+	"go.mau.fi/libsignal/protocol"
+	"go.mau.fi/libsignal/session"
+	"go.mau.fi/libsignal/signalerror"
+	"go.mau.fi/util/random"
 	"google.golang.org/protobuf/proto"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/appstate"

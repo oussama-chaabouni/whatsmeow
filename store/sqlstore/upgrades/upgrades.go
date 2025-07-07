@@ -9,7 +9,7 @@ package upgrades
 import (
 	"embed"
 
-	"github.com/oussama-chaabouni/whatsmeow/util/dbutil"
+	"go.mau.fi/util/dbutil"
 )
 
 var Table dbutil.UpgradeTable

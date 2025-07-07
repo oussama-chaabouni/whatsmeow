@@ -15,8 +15,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/oussama-chaabouni/whatsmeow/util/exerrors"
-	"github.com/oussama-chaabouni/whatsmeow/util/exstrings"
+	"go.mau.fi/util/exerrors"
+	"go.mau.fi/util/exstrings"
 
 	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waE2E"

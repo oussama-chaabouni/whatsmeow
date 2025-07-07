@@ -10,7 +10,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/oussama-chaabouni/whatsmeow/util/random"
+	"go.mau.fi/util/random"
 	"google.golang.org/protobuf/proto"
 
 	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"

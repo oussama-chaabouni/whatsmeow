@@ -20,9 +20,9 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/oussama-chaabouni/whatsmeow/util/exhttp"
-	"github.com/oussama-chaabouni/whatsmeow/util/exsync"
-	"github.com/oussama-chaabouni/whatsmeow/util/random"
+	"go.mau.fi/util/exhttp"
+	"go.mau.fi/util/exsync"
+	"go.mau.fi/util/random"
 	"golang.org/x/net/proxy"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/appstate"

@@ -19,7 +19,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/oussama-chaabouni/whatsmeow/util/random"
+	"go.mau.fi/util/random"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/socket"
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/cbcutil"

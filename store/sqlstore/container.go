@@ -14,8 +14,8 @@ import (
 	mathRand "math/rand/v2"
 
 	"github.com/google/uuid"
-	"github.com/oussama-chaabouni/whatsmeow/util/dbutil"
-	"github.com/oussama-chaabouni/whatsmeow/util/random"
+	"go.mau.fi/util/dbutil"
+	"go.mau.fi/util/random"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waAdv"
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/store"

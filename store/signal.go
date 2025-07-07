@@ -10,13 +10,13 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/ecc"
-	groupRecord "github.com/oussama-chaabouni/whatsmeow/libsignal/groups/state/record"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/keys/identity"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/protocol"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/serialize"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/state/record"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/state/store"
+	"go.mau.fi/libsignal/ecc"
+	groupRecord "go.mau.fi/libsignal/groups/state/record"
+	"go.mau.fi/libsignal/keys/identity"
+	"go.mau.fi/libsignal/protocol"
+	"go.mau.fi/libsignal/serialize"
+	"go.mau.fi/libsignal/state/record"
+	"go.mau.fi/libsignal/state/store"
 )
 
 var SignalProtobufSerializer = serialize.NewProtoBufSerializer()

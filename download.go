@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/util/retryafter"
+	"go.mau.fi/util/retryafter"
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"
 

@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/ecc"
+	"go.mau.fi/libsignal/ecc"
 	"google.golang.org/protobuf/proto"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCert"

@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/util/ptr"
+	"go.mau.fi/util/ptr"
 
 	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"

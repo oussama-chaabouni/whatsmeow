@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/util/random"
+	"go.mau.fi/util/random"
 	"google.golang.org/protobuf/proto"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCommon"

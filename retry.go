@@ -14,10 +14,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/ecc"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/groups"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/keys/prekey"
-	"github.com/oussama-chaabouni/whatsmeow/libsignal/protocol"
+	"go.mau.fi/libsignal/ecc"
+	"go.mau.fi/libsignal/groups"
+	"go.mau.fi/libsignal/keys/prekey"
+	"go.mau.fi/libsignal/protocol"
 	"google.golang.org/protobuf/proto"
 
 	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"

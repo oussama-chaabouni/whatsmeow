@@ -18,8 +18,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/util/dbutil"
-	"github.com/oussama-chaabouni/whatsmeow/util/exsync"
+	"go.mau.fi/util/dbutil"
+	"go.mau.fi/util/exsync"
 
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/store"
 	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
