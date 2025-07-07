@@ -18,12 +18,12 @@ import (
 	"sync"
 	"time"
 
-	"go.mau.fi/util/dbutil"
-	"go.mau.fi/util/exsync"
+	"github.com/oussama-chaabouni/whatsmeow/util/dbutil"
+	"github.com/oussama-chaabouni/whatsmeow/util/exsync"
 
-	"go.mau.fi/whatsmeow/store"
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/util/keys"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/store"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/keys"
 )
 
 // ErrInvalidLength is returned by some database getters if the database returned a byte array with an unexpected length.

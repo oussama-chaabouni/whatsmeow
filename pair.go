@@ -15,14 +15,14 @@ import (
 	"fmt"
 	"strings"
 
-	"go.mau.fi/libsignal/ecc"
+	"github.com/oussama-chaabouni/whatsmeow/libsignal/ecc"
 	"google.golang.org/protobuf/proto"
 
-	waBinary "go.mau.fi/whatsmeow/binary"
-	"go.mau.fi/whatsmeow/proto/waAdv"
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/types/events"
-	"go.mau.fi/whatsmeow/util/keys"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waAdv"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types/events"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/keys"
 )
 
 var (

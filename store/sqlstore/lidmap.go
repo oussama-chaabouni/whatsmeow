@@ -15,11 +15,11 @@ import (
 	"slices"
 	"sync"
 
+	"github.com/oussama-chaabouni/whatsmeow/util/dbutil"
 	"github.com/rs/zerolog"
-	"go.mau.fi/util/dbutil"
 
-	"go.mau.fi/whatsmeow/store"
-	"go.mau.fi/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/store"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
 )
 
 type CachedLIDMap struct {

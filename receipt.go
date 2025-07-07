@@ -11,11 +11,11 @@ import (
 	"fmt"
 	"time"
 
-	"go.mau.fi/util/ptr"
+	"github.com/oussama-chaabouni/whatsmeow/util/ptr"
 
-	waBinary "go.mau.fi/whatsmeow/binary"
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/types/events"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types/events"
 )
 
 func (cli *Client) handleReceipt(node *waBinary.Node) {

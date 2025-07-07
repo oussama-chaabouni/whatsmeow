@@ -15,11 +15,11 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"go.mau.fi/libsignal/ecc"
+	"github.com/oussama-chaabouni/whatsmeow/libsignal/ecc"
 
-	"go.mau.fi/whatsmeow/proto/waCompanionReg"
-	"go.mau.fi/whatsmeow/proto/waWa6"
-	"go.mau.fi/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCompanionReg"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waWa6"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
 )
 
 // WAVersionContainer is a container for a WhatsApp web version number.

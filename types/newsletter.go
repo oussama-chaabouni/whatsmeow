@@ -12,9 +12,9 @@ import (
 	"fmt"
 	"time"
 
-	"go.mau.fi/util/jsontime"
+	"github.com/oussama-chaabouni/whatsmeow/util/jsontime"
 
-	"go.mau.fi/whatsmeow/proto/waE2E"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waE2E"
 )
 
 type NewsletterVerificationState string

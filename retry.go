@@ -14,20 +14,20 @@ import (
 	"fmt"
 	"time"
 
-	"go.mau.fi/libsignal/ecc"
-	"go.mau.fi/libsignal/groups"
-	"go.mau.fi/libsignal/keys/prekey"
-	"go.mau.fi/libsignal/protocol"
+	"github.com/oussama-chaabouni/whatsmeow/libsignal/ecc"
+	"github.com/oussama-chaabouni/whatsmeow/libsignal/groups"
+	"github.com/oussama-chaabouni/whatsmeow/libsignal/keys/prekey"
+	"github.com/oussama-chaabouni/whatsmeow/libsignal/protocol"
 	"google.golang.org/protobuf/proto"
 
-	waBinary "go.mau.fi/whatsmeow/binary"
-	"go.mau.fi/whatsmeow/proto/waCommon"
-	"go.mau.fi/whatsmeow/proto/waConsumerApplication"
-	"go.mau.fi/whatsmeow/proto/waE2E"
-	"go.mau.fi/whatsmeow/proto/waMsgApplication"
-	"go.mau.fi/whatsmeow/proto/waMsgTransport"
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/types/events"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCommon"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waConsumerApplication"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waE2E"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMsgApplication"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMsgTransport"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types/events"
 )
 
 // Number of sent messages to cache in memory for handling retry receipts.
