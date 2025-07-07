@@ -9,9 +9,9 @@ package events
 import (
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/appstate"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waSyncAction"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/appstate"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waSyncAction"
+	"github.com/oussama-chaabouni/whatsmeow/types"
 )
 
 // Contact is emitted when an entry in the user's contact list is modified from another device.

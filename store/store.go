@@ -13,10 +13,10 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waAdv"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/keys"
-	waLog "github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/log"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waAdv"
+	"github.com/oussama-chaabouni/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/util/keys"
+	waLog "github.com/oussama-chaabouni/whatsmeow/util/log"
 )
 
 type IdentityStore interface {

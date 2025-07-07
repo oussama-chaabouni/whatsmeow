@@ -13,13 +13,13 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/appstate"
-	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waE2E"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waServerSync"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/store"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types/events"
+	"github.com/oussama-chaabouni/whatsmeow/appstate"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/binary"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waE2E"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waServerSync"
+	"github.com/oussama-chaabouni/whatsmeow/store"
+	"github.com/oussama-chaabouni/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/types/events"
 )
 
 // FetchAppState fetches updates to the given type of app state. If fullSync is true, the current

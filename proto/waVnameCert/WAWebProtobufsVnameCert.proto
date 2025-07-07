@@ -1,6 +1,6 @@
 syntax = "proto2";
 package WAWebProtobufsVnameCert;
-option go_package = "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waVnameCert";
+option go_package = "github.com/oussama-chaabouni/whatsmeow/proto/waVnameCert";
 
 message BizAccountLinkInfo {
 	enum AccountType {

@@ -21,8 +21,8 @@ import (
 
 	"go.mau.fi/util/random"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/socket"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/cbcutil"
+	"github.com/oussama-chaabouni/whatsmeow/socket"
+	"github.com/oussama-chaabouni/whatsmeow/util/cbcutil"
 )
 
 // UploadResponse contains the data from the attachment upload, which can be put into a message to send the attachment.

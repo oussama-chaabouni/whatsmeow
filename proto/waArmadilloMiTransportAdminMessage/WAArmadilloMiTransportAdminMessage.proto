@@ -1,6 +1,6 @@
 syntax = "proto2";
 package WAArmadilloMiTransportAdminMessage;
-option go_package = "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waArmadilloMiTransportAdminMessage";
+option go_package = "github.com/oussama-chaabouni/whatsmeow/proto/waArmadilloMiTransportAdminMessage";
 
 message MiTransportAdminMessage {
 	message LimitSharingChanged {

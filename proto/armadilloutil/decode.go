@@ -6,7 +6,7 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCommon"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waCommon"
 )
 
 var ErrUnsupportedVersion = errors.New("unsupported subprotocol version")

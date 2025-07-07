@@ -16,7 +16,7 @@ repos:
       - id: go-imports-repo
         args:
           - "-local"
-          - "github.com/oussama-chaabouni/whatsmeow/whatsmeow"
+          - "github.com/oussama-chaabouni/whatsmeow"
           - "-w"
       - id: go-vet-repo-mod
       # TODO enable this

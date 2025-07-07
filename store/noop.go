@@ -11,8 +11,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/keys"
+	"github.com/oussama-chaabouni/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/util/keys"
 )
 
 type NoopStore struct {

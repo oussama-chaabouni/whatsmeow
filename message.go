@@ -27,15 +27,15 @@ import (
 	"go.mau.fi/util/random"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/appstate"
-	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waE2E"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waHistorySync"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waLidMigrationSyncPayload"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waWeb"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/store"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types/events"
+	"github.com/oussama-chaabouni/whatsmeow/appstate"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/binary"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waE2E"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waHistorySync"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waLidMigrationSyncPayload"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waWeb"
+	"github.com/oussama-chaabouni/whatsmeow/store"
+	"github.com/oussama-chaabouni/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/types/events"
 )
 
 var pbSerializer = store.SignalProtobufSerializer

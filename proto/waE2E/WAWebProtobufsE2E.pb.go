@@ -14,11 +14,11 @@ import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 
-	waAdv "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waAdv"
-	waCommon "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCommon"
-	waCompanionReg "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCompanionReg"
-	waMmsRetry "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMmsRetry"
-	waStatusAttributions "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waStatusAttributions"
+	waAdv "github.com/oussama-chaabouni/whatsmeow/proto/waAdv"
+	waCommon "github.com/oussama-chaabouni/whatsmeow/proto/waCommon"
+	waCompanionReg "github.com/oussama-chaabouni/whatsmeow/proto/waCompanionReg"
+	waMmsRetry "github.com/oussama-chaabouni/whatsmeow/proto/waMmsRetry"
+	waStatusAttributions "github.com/oussama-chaabouni/whatsmeow/proto/waStatusAttributions"
 )
 
 const (
@@ -26432,7 +26432,7 @@ const file_waE2E_WAWebProtobufsE2E_proto_rawDesc = "" +
 	"\bKeepType\x12\x15\n" +
 	"\x11UNKNOWN_KEEP_TYPE\x10\x00\x12\x10\n" +
 	"\fKEEP_FOR_ALL\x10\x01\x12\x15\n" +
-	"\x11UNDO_KEEP_FOR_ALL\x10\x02B!Z\x1fgithub.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waE2E"
+	"\x11UNDO_KEEP_FOR_ALL\x10\x02B!Z\x1fgithub.com/oussama-chaabouni/whatsmeow/proto/waE2E"
 
 var (
 	file_waE2E_WAWebProtobufsE2E_proto_rawDescOnce sync.Once

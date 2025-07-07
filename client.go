@@ -25,17 +25,17 @@ import (
 	"go.mau.fi/util/random"
 	"golang.org/x/net/proxy"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/appstate"
-	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waE2E"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waWa6"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waWeb"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/socket"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/store"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types/events"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/keys"
-	waLog "github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/log"
+	"github.com/oussama-chaabouni/whatsmeow/appstate"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/binary"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waE2E"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waWa6"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waWeb"
+	"github.com/oussama-chaabouni/whatsmeow/socket"
+	"github.com/oussama-chaabouni/whatsmeow/store"
+	"github.com/oussama-chaabouni/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/types/events"
+	"github.com/oussama-chaabouni/whatsmeow/util/keys"
+	waLog "github.com/oussama-chaabouni/whatsmeow/util/log"
 )
 
 // EventHandler is a function that can handle events from WhatsApp.

@@ -1,8 +1,8 @@
 package waConsumerApplication
 
 import (
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/armadilloutil"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMediaTransport"
+	"github.com/oussama-chaabouni/whatsmeow/proto/armadilloutil"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waMediaTransport"
 )
 
 type ConsumerApplication_Content_Content = isConsumerApplication_Content_Content

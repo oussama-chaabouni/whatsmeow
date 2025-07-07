@@ -16,7 +16,7 @@ import (
 	"golang.org/x/crypto/curve25519"
 	"golang.org/x/crypto/hkdf"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/gcmutil"
+	"github.com/oussama-chaabouni/whatsmeow/util/gcmutil"
 )
 
 type NoiseHandshake struct {

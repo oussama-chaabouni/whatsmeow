@@ -1,9 +1,9 @@
 package waMsgTransport
 
 import (
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/armadilloutil"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloTransportPayload"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMsgApplication"
+	"github.com/oussama-chaabouni/whatsmeow/proto/armadilloutil"
+	"github.com/oussama-chaabouni/whatsmeow/proto/instamadilloTransportPayload"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waMsgApplication"
 )
 
 const (

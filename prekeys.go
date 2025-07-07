@@ -17,9 +17,9 @@ import (
 	"go.mau.fi/libsignal/keys/prekey"
 	"go.mau.fi/libsignal/util/optional"
 
-	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/keys"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/binary"
+	"github.com/oussama-chaabouni/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/util/keys"
 )
 
 const (

@@ -14,13 +14,13 @@ import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 
-	instamadilloCoreTypeActionLog "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloCoreTypeActionLog"
-	instamadilloCoreTypeAdminMessage "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloCoreTypeAdminMessage"
-	instamadilloCoreTypeCollection "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloCoreTypeCollection"
-	instamadilloCoreTypeLink "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloCoreTypeLink"
-	instamadilloCoreTypeMedia "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloCoreTypeMedia"
-	instamadilloCoreTypeText "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloCoreTypeText"
-	instamadilloXmaContentRef "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloXmaContentRef"
+	instamadilloCoreTypeActionLog "github.com/oussama-chaabouni/whatsmeow/proto/instamadilloCoreTypeActionLog"
+	instamadilloCoreTypeAdminMessage "github.com/oussama-chaabouni/whatsmeow/proto/instamadilloCoreTypeAdminMessage"
+	instamadilloCoreTypeCollection "github.com/oussama-chaabouni/whatsmeow/proto/instamadilloCoreTypeCollection"
+	instamadilloCoreTypeLink "github.com/oussama-chaabouni/whatsmeow/proto/instamadilloCoreTypeLink"
+	instamadilloCoreTypeMedia "github.com/oussama-chaabouni/whatsmeow/proto/instamadilloCoreTypeMedia"
+	instamadilloCoreTypeText "github.com/oussama-chaabouni/whatsmeow/proto/instamadilloCoreTypeText"
+	instamadilloXmaContentRef "github.com/oussama-chaabouni/whatsmeow/proto/instamadilloXmaContentRef"
 )
 
 const (
@@ -882,7 +882,7 @@ const file_instamadilloAddMessage_InstamadilloAddMessage_proto_rawDesc = "" +
 	"#PLACEHOLDER_TYPE_DECRYPTION_FAILURE\x10\x01\x12.\n" +
 	"*PLACEHOLDER_TYPE_NOT_SUPPORTED_NEED_UPDATE\x10\x02\x12'\n" +
 	"#PLACEHOLDER_TYPE_DEVICE_UNAVAILABLE\x10\x03\x122\n" +
-	".PLACEHOLDER_TYPE_NOT_SUPPORTED_NOT_RECOVERABLE\x10\x04B2Z0github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloAddMessage"
+	".PLACEHOLDER_TYPE_NOT_SUPPORTED_NOT_RECOVERABLE\x10\x04B2Z0github.com/oussama-chaabouni/whatsmeow/proto/instamadilloAddMessage"
 
 var (
 	file_instamadilloAddMessage_InstamadilloAddMessage_proto_rawDescOnce sync.Once

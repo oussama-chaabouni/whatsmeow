@@ -21,10 +21,10 @@ import (
 	"golang.org/x/crypto/curve25519"
 	"golang.org/x/crypto/pbkdf2"
 
-	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/hkdfutil"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/keys"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/binary"
+	"github.com/oussama-chaabouni/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/util/hkdfutil"
+	"github.com/oussama-chaabouni/whatsmeow/util/keys"
 )
 
 // PairClientType is the type of client to use with PairCode.

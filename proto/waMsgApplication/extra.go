@@ -1,10 +1,10 @@
 package waMsgApplication
 
 import (
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/armadilloutil"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waArmadilloApplication"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waConsumerApplication"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMultiDevice"
+	"github.com/oussama-chaabouni/whatsmeow/proto/armadilloutil"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waArmadilloApplication"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waConsumerApplication"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waMultiDevice"
 )
 
 const (

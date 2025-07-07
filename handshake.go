@@ -14,10 +14,10 @@ import (
 	"go.mau.fi/libsignal/ecc"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waCert"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waWa6"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/socket"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/keys"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waCert"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waWa6"
+	"github.com/oussama-chaabouni/whatsmeow/socket"
+	"github.com/oussama-chaabouni/whatsmeow/util/keys"
 )
 
 const NoiseHandshakeResponseTimeout = 20 * time.Second

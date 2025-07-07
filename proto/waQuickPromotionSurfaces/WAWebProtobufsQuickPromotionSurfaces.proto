@@ -1,6 +1,6 @@
 syntax = "proto2";
 package WAWebProtobufsQuickPromotionSurfaces;
-option go_package = "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waQuickPromotionSurfaces";
+option go_package = "github.com/oussama-chaabouni/whatsmeow/proto/waQuickPromotionSurfaces";
 
 message QP {
 	enum FilterResult {

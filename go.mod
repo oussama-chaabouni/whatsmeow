@@ -1,4 +1,4 @@
-module github.com/oussama-chaabouni/whatsmeow/whatsmeow
+module github.com/oussama-chaabouni/whatsmeow
 
 go 1.23.0
 

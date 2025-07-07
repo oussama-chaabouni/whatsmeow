@@ -1,6 +1,6 @@
 syntax = "proto2";
 package WAConsumerApplication;
-option go_package = "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waConsumerApplication";
+option go_package = "github.com/oussama-chaabouni/whatsmeow/proto/waConsumerApplication";
 
 import "waCommon/WACommon.proto";
 

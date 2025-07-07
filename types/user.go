@@ -9,7 +9,7 @@ package types
 import (
 	"time"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waVnameCert"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waVnameCert"
 )
 
 // VerifiedName contains verified WhatsApp business details.

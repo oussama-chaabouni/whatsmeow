@@ -21,8 +21,8 @@ import (
 	"go.mau.fi/util/fallocate"
 	"go.mau.fi/util/retryafter"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMediaTransport"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/util/cbcutil"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waMediaTransport"
+	"github.com/oussama-chaabouni/whatsmeow/util/cbcutil"
 )
 
 type File interface {

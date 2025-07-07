@@ -1,6 +1,6 @@
 syntax = "proto2";
 package WAWebProtobufsSyncdSnapshotRecovery;
-option go_package = "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waSyncdSnapshotRecovery";
+option go_package = "github.com/oussama-chaabouni/whatsmeow/proto/waSyncdSnapshotRecovery";
 
 import "waSyncAction/WASyncAction.proto";
 

@@ -5,8 +5,8 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary/token"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
+	"github.com/oussama-chaabouni/whatsmeow/binary/token"
+	"github.com/oussama-chaabouni/whatsmeow/types"
 )
 
 type binaryEncoder struct {

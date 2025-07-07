@@ -14,8 +14,8 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/socket"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/store"
+	"github.com/oussama-chaabouni/whatsmeow/socket"
+	"github.com/oussama-chaabouni/whatsmeow/store"
 )
 
 var clientVersionRegex = regexp.MustCompile(`"client_revision":(\d+),`)

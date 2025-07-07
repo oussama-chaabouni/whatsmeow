@@ -12,17 +12,17 @@ import (
 	"strconv"
 	"time"
 
-	waBinary "github.com/oussama-chaabouni/whatsmeow/whatsmeow/binary"
-	armadillo "github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/instamadilloTransportPayload"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waArmadilloApplication"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waConsumerApplication"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waE2E"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waHistorySync"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMsgApplication"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waMsgTransport"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/proto/waWeb"
-	"github.com/oussama-chaabouni/whatsmeow/whatsmeow/types"
+	waBinary "github.com/oussama-chaabouni/whatsmeow/binary"
+	armadillo "github.com/oussama-chaabouni/whatsmeow/proto"
+	"github.com/oussama-chaabouni/whatsmeow/proto/instamadilloTransportPayload"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waArmadilloApplication"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waConsumerApplication"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waE2E"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waHistorySync"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waMsgApplication"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waMsgTransport"
+	"github.com/oussama-chaabouni/whatsmeow/proto/waWeb"
+	"github.com/oussama-chaabouni/whatsmeow/types"
 )
 
 // QR is emitted after connecting when there's no session data in the device store.
