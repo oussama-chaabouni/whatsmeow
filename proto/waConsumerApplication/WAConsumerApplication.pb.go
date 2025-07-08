@@ -2630,7 +2630,7 @@ const file_waConsumerApplication_WAConsumerApplication_proto_rawDesc = "" +
 	"\x10degreesLongitude\x18\x02 \x01(\x01R\x10degreesLongitude\x12\x12\n" +
 	"\x04name\x18\x03 \x01(\tR\x04name\x1aA\n" +
 	"\fMediaPayload\x121\n" +
-	"\bprotocol\x18\x01 \x01(\v2\x15.WACommon.SubProtocolR\bprotocolB1Z/github.com/oussama-chaabouni/whatsmeow/proto/waConsumerApplication"
+	"\bprotocol\x18\x01 \x01(\v2\x15.WACommon.SubProtocolR\bprotocolB1Z/go.mau.fi/whatsmeow/proto/waConsumerApplication"
 
 var (
 	file_waConsumerApplication_WAConsumerApplication_proto_rawDescOnce sync.Once

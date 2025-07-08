@@ -725,7 +725,7 @@ const file_waStatusAttributions_WAStatusAttributions_proto_rawDesc = "" +
 	"\x05MUSIC\x10\x02\x12\x12\n" +
 	"\x0eSTATUS_MENTION\x10\x03\x12\x10\n" +
 	"\fGROUP_STATUS\x10\x04B\x11\n" +
-	"\x0fattributionDataB0Z.github.com/oussama-chaabouni/whatsmeow/proto/waStatusAttributions"
+	"\x0fattributionDataB0Z.go.mau.fi/whatsmeow/proto/waStatusAttributions"
 
 var (
 	file_waStatusAttributions_WAStatusAttributions_proto_rawDescOnce sync.Once
