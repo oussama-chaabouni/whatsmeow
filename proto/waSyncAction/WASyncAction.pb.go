@@ -5361,7 +5361,7 @@ const file_waSyncAction_WASyncAction_proto_rawDesc = "" +
 	"\x05index\x18\x01 \x01(\fR\x05index\x123\n" +
 	"\x05value\x18\x02 \x01(\v2\x1d.WASyncAction.SyncActionValueR\x05value\x12\x18\n" +
 	"\apadding\x18\x03 \x01(\fR\apadding\x12\x18\n" +
-	"\aversion\x18\x04 \x01(\x05R\aversionB(Z&github.com/oussama-chaabouni/whatsmeow/proto/waSyncAction"
+	"\aversion\x18\x04 \x01(\x05R\aversionB(Z&go.mau.fi/whatsmeow/proto/waSyncAction"
 
 var (
 	file_waSyncAction_WASyncAction_proto_rawDescOnce sync.Once

@@ -2256,7 +2256,7 @@ const file_waHistorySync_WAWebProtobufsHistorySync_proto_rawDesc = "" +
 	"\bE2EE_MSG\x10\x01\x12\x0e\n" +
 	"\n" +
 	"NE2EE_SELF\x10\x02\x12\x0f\n" +
-	"\vNE2EE_OTHER\x10\x03B)Z'github.com/oussama-chaabouni/whatsmeow/proto/waHistorySync"
+	"\vNE2EE_OTHER\x10\x03B)Z'go.mau.fi/whatsmeow/proto/waHistorySync"
 
 var (
 	file_waHistorySync_WAWebProtobufsHistorySync_proto_rawDescOnce sync.Once
