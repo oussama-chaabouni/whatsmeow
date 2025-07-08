@@ -957,7 +957,7 @@ const file_waArmadilloXMA_WAArmadilloXMA_proto_rawDesc = "" +
 	"\x16RTC_ONGOING_AUDIO_CALL\x10\xc0\x17\x12\x1b\n" +
 	"\x16RTC_ONGOING_VIDEO_CALL\x10\xc1\x17\x12 \n" +
 	"\x1bMSG_RECEIVER_FETCH_FALLBACK\x10\xd1\x17\x12\x1a\n" +
-	"\x15DATACLASS_SENDER_COPY\x10\xa0\x1fB*Z(github.com/oussama-chaabouni/whatsmeow/proto/waArmadilloXMA"
+	"\x15DATACLASS_SENDER_COPY\x10\xa0\x1fB*Z(go.mau.fi/whatsmeow/proto/waArmadilloXMA"
 
 var (
 	file_waArmadilloXMA_WAArmadilloXMA_proto_rawDescOnce sync.Once

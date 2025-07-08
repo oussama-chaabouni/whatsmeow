@@ -779,7 +779,7 @@ const file_waMsgTransport_WAMsgTransport_proto_rawDesc = "" +
 	"\rsenderKeyHash\x18\x01 \x01(\fR\rsenderKeyHash\x12(\n" +
 	"\x0fsenderTimestamp\x18\x02 \x01(\x04R\x0fsenderTimestamp\x12*\n" +
 	"\x10recipientKeyHash\x18\b \x01(\fR\x10recipientKeyHash\x12.\n" +
-	"\x12recipientTimestamp\x18\t \x01(\x04R\x12recipientTimestampB*Z(github.com/oussama-chaabouni/whatsmeow/proto/waMsgTransport"
+	"\x12recipientTimestamp\x18\t \x01(\x04R\x12recipientTimestampB*Z(go.mau.fi/whatsmeow/proto/waMsgTransport"
 
 var (
 	file_waMsgTransport_WAMsgTransport_proto_rawDescOnce sync.Once
