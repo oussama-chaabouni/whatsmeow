@@ -211,7 +211,7 @@ const file_waSyncdSnapshotRecovery_WAWebProtobufsSyncdSnapshotRecovery_proto_raw
 	"\x05keyID\x18\x02 \x01(\fR\x05keyID\x12\x10\n" +
 	"\x03mac\x18\x03 \x01(\fR\x03mac\"(\n" +
 	"\fSyncdVersion\x12\x18\n" +
-	"\aversion\x18\x01 \x01(\x04R\aversionB3Z1github.com/oussama-chaabouni/whatsmeow/proto/waSyncdSnapshotRecovery"
+	"\aversion\x18\x01 \x01(\x04R\aversionB3Z1go.mau.fi/whatsmeow/proto/waSyncdSnapshotRecovery"
 
 var (
 	file_waSyncdSnapshotRecovery_WAWebProtobufsSyncdSnapshotRecovery_proto_rawDescOnce sync.Once
